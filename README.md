@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I have been working as a senior Shopify developer for 7 years since 2015.
+
+I have a big experience in working with United States, Canada, United Kingdom, and European clients.
+My working time is flexible and can work across clients' time zones.
+
+My Expertise:
+- 👉 Shopify, Shopify Plus Store Setup
+- 👉 Shopify Bulk Data Migration
+- 👉 Shopify Store & Theme Customization
+- 👉 Shopify App Development
+- 👉 Shopify REST & GraphQL Admin API
+- 👉 Shopify Subscription Integration
+- 👉 Shopify Plus script
+- 👉 Klaviyo
